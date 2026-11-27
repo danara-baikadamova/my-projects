@@ -1,0 +1,4 @@
+__pycache__
+*.рус
+.pytest_cache
+tests/

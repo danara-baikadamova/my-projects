@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+users.db
+.env
+users.db
+user.json
+players.json
+.env
